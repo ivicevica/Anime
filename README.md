@@ -20,3 +20,5 @@ Example code in Python that prints out my favorite anime.
 ```Python
 print("Naruto is my favorite anime!")
 ```
+
+Testing merging with the branch!
