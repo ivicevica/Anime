@@ -1,4 +1,5 @@
 # ANIMES
+Here I will list my top 3 favorite animes of all time.
 
 ## _Naruto_
 This anime is about ninjas and following the story of the main character, **Naruto Uzumaki**.
@@ -20,5 +21,3 @@ Example code in Python that prints out my favorite anime.
 ```Python
 print("Naruto is my favorite anime!")
 ```
-
-Testing merging with the branch!
