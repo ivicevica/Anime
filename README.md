@@ -1,8 +1,12 @@
-# Naruto
-This anime is about ninjas and following the story of the main character, Naruto Uzumaki.
+# ANIMES
 
-## DragonballZ
-This anime is about fighting and following the story of the main character, Goku.
+## _Naruto_
+This anime is about ninjas and following the story of the main character, **Naruto Uzumaki**.
 
-### Hunter X Hunter
-This anime is about adventure and following the story of the main character, Gon Freecss.
+
+### _DragonballZ_
+This anime is about fighting and following the story of the main character, **Goku**.
+
+
+#### _Hunter X Hunter_
+This anime is about adventure and following the story of the main character, **Gon Freecss**.
