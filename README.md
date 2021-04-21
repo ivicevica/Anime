@@ -3,6 +3,8 @@
 ## _Naruto_
 This anime is about ninjas and following the story of the main character, **Naruto Uzumaki**.
 
+![Naruto](naruto.png)
+
 
 ### _DragonballZ_
 This anime is about fighting and following the story of the main character, **Goku**.
